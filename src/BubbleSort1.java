@@ -6,6 +6,8 @@ public class BubbleSort1 {
 		int i = 10;
 		System.out.println(i);
 		System.out.println("Hello");
+		System.out.println("World");
+		System.out.println("HI");
 		
 	}
 
